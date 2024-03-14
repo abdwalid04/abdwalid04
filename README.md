@@ -45,7 +45,7 @@
 ### 🧰 Software and tools
 <br>
 
-![My Skills](https://skillicons.dev/icons?i=git,linux,github,postman,aws,gcp,azure,vscode)
+![My Skills](https://skillicons.dev/icons?i=git,linux,github,postman,aws,gcp,azure,docker,vscode)
 
 <br>
 
