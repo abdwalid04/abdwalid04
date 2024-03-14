@@ -68,8 +68,8 @@
 
 <br>
 
-
-#  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **Stats**
+<h1>⚡Stats</h1>
+<br>
 
 ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdwalid04&show_icons=true&theme=tokyonight&border_radius=8&border=3DA47A)
 
@@ -82,9 +82,9 @@
 <br>
 
 # <picture><img src = "https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width = 40px></picture> **Connect with me**
+<br>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdellah-walid-17126a20b/)
 
-&nbsp&nbsp&nbsp
 
 [![image](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdellahwalid04@gmail.com)
