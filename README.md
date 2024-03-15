@@ -13,7 +13,7 @@
 
 - 💻 Currently, I'm an AI Engineer at **VERVE Technologies**.
 - 🎓 I'm pursuing my Master's degree in Artificial Intelligence and Virtual Reality at **Ibn Tofaïl University - Kénitra**.
-- 🌐 Visit my personal website for more details https://abdwalid04@github.io.
+- 🌐 Visit my personal website for more details https://abdwalid04.github.io/.
 - 📫 You can reach me at adil.walid.abdellah@gmail.com.
 
 <br>
