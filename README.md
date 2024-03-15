@@ -32,7 +32,7 @@
 ### 🧰 Data science and machine learning
 <br>
 
-![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,css)
+![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)
 <p align="left">
   <img src="https://abdwalid04.github.io/images/details/details-icon-pandas.png" height="40px" />&nbsp&nbsp&nbsp
   <img src="https://abdwalid04.github.io/images/details/details-icon-matplotlib.png" height="40px" />&nbsp&nbsp&nbsp
